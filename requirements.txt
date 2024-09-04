@@ -4,6 +4,5 @@ Pillow
 requests
 python-docx
 PyMuPDF
-pywin32
 opencv-python
 numpy
